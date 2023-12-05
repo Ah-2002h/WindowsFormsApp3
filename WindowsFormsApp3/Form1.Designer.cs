@@ -49,7 +49,7 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.button2.Location = new System.Drawing.Point(643, 169);
+            this.button2.Location = new System.Drawing.Point(647, 186);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 1;
@@ -86,7 +86,7 @@
             // button6
             // 
             this.button6.BackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.button6.Location = new System.Drawing.Point(390, 12);
+            this.button6.Location = new System.Drawing.Point(339, 12);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 23);
             this.button6.TabIndex = 4;
